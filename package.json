@@ -1,0 +1,16 @@
+{
+  "name": "reinventing-the-wheel",
+  "version": "1.0.0",
+  "description": "A place where I try to implement solutions to already solved problems in the nodejs ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
